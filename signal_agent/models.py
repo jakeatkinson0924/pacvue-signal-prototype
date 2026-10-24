@@ -66,6 +66,25 @@ class DimensionScore(BaseModel):
     evidence_ids: list[int] = Field(default_factory=list, description="Positions of supporting items in the evidence list.")
 
 
+class ScoreSet(BaseModel):
+    """What the Qualification agent returns: five scores plus any warnings."""
+
+    scores: list[DimensionScore]
+    flags: list[str] = Field(
+        default_factory=list,
+        description="Important caveats, e.g. 'appears in a competitor's case study' or 'signals are over a year old'.",
+    )
+
+
+class ResearchPlan(BaseModel):
+    """What the agent decides to research next (the 'agentic' step)."""
+
+    gaps: list[str] = Field(description="The most important missing information.")
+    reasoning: str = Field(description="Why these searches are the best next step, or why to stop.")
+    queries: list[str] = Field(default_factory=list, description="1-2 new web searches. Empty if stopping.")
+    stop: bool = Field(description="True if more searching is unlikely to change the assessment.")
+
+
 class ResearchStep(BaseModel):
     """One entry in the research trail: what the agent decided and why."""
 
@@ -73,6 +92,8 @@ class ResearchStep(BaseModel):
     decision: str = Field(description="What the agent chose to do next and why.")
     queries: list[str]
     new_evidence: int = 0
+    score_after: float | None = None
+    confidence_after: str | None = None
 
 
 class AccountBrief(BaseModel):
@@ -94,8 +115,10 @@ class Prospect(BaseModel):
     evidence: list[Evidence] = Field(default_factory=list)
     scores: list[DimensionScore] = Field(default_factory=list)
     total_score: float | None = None  # 0-100, calculated in Python, not by the AI
+    priority: Literal["High", "Medium", "Low"] | None = None
     confidence: Literal["High", "Medium", "Low"] | None = None
     confidence_reason: str = ""
+    flags: list[str] = Field(default_factory=list)
     trail: list[ResearchStep] = Field(default_factory=list)
     brief: AccountBrief | None = None
     updated_at: str = Field(default_factory=lambda: datetime.now().isoformat(timespec="seconds"))
