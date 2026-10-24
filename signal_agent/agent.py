@@ -97,6 +97,7 @@ def investigate_deeper(prospect: Prospect, rounds: int = MAX_ROUNDS, log: Callab
             prospect.flags.append("Follow-up research incomplete: web search was unavailable (free-plan hourly limit).")
             prospect.trail.append(ResearchStep(round=round_no, decision=f"Planned: {plan.reasoning} Not run: web search unavailable.", queries=queries))
             break
+        score_before, confidence_before = prospect.total_score or 0, prospect.confidence
         added = _add_new_evidence(prospect, found)
         qualify(prospect)
 
@@ -111,6 +112,11 @@ def investigate_deeper(prospect: Prospect, rounds: int = MAX_ROUNDS, log: Callab
         log(f"  +{added} evidence -> score {prospect.total_score}, confidence {prospect.confidence}")
         if added == 0:
             log("No new evidence found; stopping.")
+            prospect.trail[-1].decision += " Result: no new evidence found, so the agent stopped."
+            break
+        if abs((prospect.total_score or 0) - score_before) < 2 and prospect.confidence == confidence_before:
+            log("Score changed by less than 2 points; more searching is unlikely to help. Stopping.")
+            prospect.trail[-1].decision += " Result: assessment essentially unchanged, so the agent stopped (diminishing returns)."
             break
 
     prospect.brief = write_brief(prospect)
