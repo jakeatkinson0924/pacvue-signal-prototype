@@ -23,7 +23,8 @@ Rate each dimension from 0 to 10 using ONLY the evidence below. Cite evidence by
 
 Rules: no evidence for a dimension means a low score (0-2) and say so. Facts count more than inferences.
 Add flags for anything a salesperson must know (competitor tools, stale signals, company may be too small,
-evidence mostly undated).
+evidence mostly undated). Set identity_uncertain to true if any evidence may be about a different company
+with a similar name, and score only the evidence that is clearly about {company}.
 
 Evidence:
 {evidence}"""
@@ -89,4 +90,7 @@ def qualify(prospect: Prospect) -> Prospect:
     prospect.total_score = weighted_total(prospect)
     prospect.priority = priority_for(prospect.total_score)
     prospect.confidence, prospect.confidence_reason = confidence_for(prospect.evidence)
+    if result.identity_uncertain and prospect.confidence == "High":
+        prospect.confidence = "Medium"
+        prospect.confidence_reason += " Capped at Medium: some evidence may be about a different company."
     return prospect

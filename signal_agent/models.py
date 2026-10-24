@@ -74,6 +74,9 @@ class ScoreSet(BaseModel):
         default_factory=list,
         description="Important caveats, e.g. 'appears in a competitor's case study' or 'signals are over a year old'.",
     )
+    identity_uncertain: bool = Field(
+        False, description="True if some evidence may be about a different company with a similar name."
+    )
 
 
 class ResearchPlan(BaseModel):
