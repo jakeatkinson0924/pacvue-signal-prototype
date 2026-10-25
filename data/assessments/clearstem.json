@@ -1,0 +1,220 @@
+{
+  "company": "Clearstem",
+  "evidence": [
+    {
+      "claim": "CLEARSTEM products are available at Target.com and in over 600 Target Beauty Studio locations nationwide.",
+      "source_url": "https://help.clearstem.com/en-US/can-i-purchase-your-products-in-store-581074",
+      "source_title": "Can I purchase your products in-store?",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "CLEARSTEM is available for purchase at all Erewhon locations.",
+      "source_url": "https://help.clearstem.com/en-US/can-i-purchase-your-products-in-store-581074",
+      "source_title": "Can I purchase your products in-store?",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "CLEARSTEM products are available on Amazon.",
+      "source_url": "https://help.clearstem.com/en-US/can-i-purchase-your-products-in-store-581074",
+      "source_title": "Can I purchase your products in-store?",
+      "published": "unknown",
+      "signal_type": "amazon_launch",
+      "kind": "fact"
+    },
+    {
+      "claim": "CLEARSTEM Skincare announced its launch into Target Beauty Studio starting September 10, 2026.",
+      "source_url": "https://www.prnewswire.com/news-releases/clearstem-skincare-launches-into-target-beauty-studio-bringing-root-cause-care-for-breakouts--aging-to-millions-nationwide-302869293.html",
+      "source_title": "CLEARSTEM Skincare Launches Into Target Beauty Studio, Bringing Root-Cause Care for Breakouts + Aging to Millions Nationwide",
+      "published": "2026-09-09",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "CLEARSTEM Skincare has a product listing on Walmart Business Supplies.",
+      "source_url": "https://business.walmart.com/ip/Clearity-Mandelic-Acid-Serum/1083334554?classType=REGULAR",
+      "source_title": "CLEARSTEM Skincare Clearity Mandelic Acid Serum",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "CLEARSTEM is hiring for several roles including Digital Media Manager, Digital Project Manager, Executive Assistant, Financial Analyst, Logistics Coordinator, and Staff Accountant.",
+      "source_url": "https://www.linkedin.com/posts/lauraericksmoen_careers-activity-7506422227559579648-tVZj",
+      "source_title": "We're growing at CLEARSTEM and hiring across the team! 🎉",
+      "published": "2026-09-17",
+      "signal_type": "retail_media_hiring",
+      "kind": "fact"
+    },
+    {
+      "claim": "CLEARSTEM is seeking a Digital Media Manager to execute paid acquisition strategies across channels including Amazon Advertising, Meta, Google, YouTube, TikTok, and Pinterest.",
+      "source_url": "https://jobboard.d9f.my-board.org/remote-jobs/remote-digital-media-manager-1",
+      "source_title": "[Remote] Digital Media Manager",
+      "published": "unknown",
+      "signal_type": "retail_media_hiring",
+      "kind": "fact"
+    },
+    {
+      "claim": "CLEARSTEM announced hiring across the Digital Commerce, Finance, and Sales departments.",
+      "source_url": "https://www.linkedin.com/posts/clearstem_careers-activity-7489114331146727424-G9ZO",
+      "source_title": "Come join the CLEARSTEM team! 💜",
+      "published": "2026-08-01",
+      "signal_type": "retail_media_hiring",
+      "kind": "fact"
+    },
+    {
+      "claim": "Search results for 'CLEARstem' on Amazon return products like HYDRAGLOW Stem Cell Moisturizer and CELLRENEW, though it is unclear if these are the official products of the skincare brand CLEARSTEM.",
+      "source_url": "https://www.amazon.com/s/ref=as_li_ss_tl?k=CLEARstem&language=en_US&linkCode=sl2&linkId=60634fefc9ce89e3822362ae0942b2e9&tag=simprevidelis-20",
+      "source_title": "Amazon.com : CLEARstem",
+      "published": "unknown",
+      "signal_type": "amazon_launch",
+      "kind": "inference"
+    },
+    {
+      "claim": "CLEARSTEM hired Anna C. as the Head of Digital Commerce & Growth to lead strategy across ecommerce, paid media, marketplaces, and emerging revenue channels.",
+      "source_url": "https://linkedin.com/in/achristensen19",
+      "source_title": "Anna C.",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Emily Laats serves as the SVP of Ecommerce & Growth at CLEARSTEM, managing the digital revenue ecosystem including DTC, Amazon, and TikTok Shop.",
+      "source_url": "https://linkedin.com/in/emilylaats",
+      "source_title": "Emily Laats",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Emily Laats started as the Head of Ecommerce at CLEARSTEM Skincare in April 2023.",
+      "source_url": "https://theorg.com/org/clearstem-skincare/org-chart/emily-laats",
+      "source_title": "Emily Laats - Senior Vice President of Ecommerce & Growth at Clearstem Skincare | The Org",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "CLEARSTEM is investing in digital growth and channel expansion through the appointment of a Head of Digital Commerce & Growth in June 2026.",
+      "source_url": "https://www.linkedin.com/posts/achristensen19_clearstem-digitalgrowth-ecommerce-activity-7469719179508502528-uc0I",
+      "source_title": "💜 I’m excited to officially share that I’ve joined CLEARSTEM",
+      "published": "2026-06-08",
+      "signal_type": "commerce_investment",
+      "kind": "inference"
+    }
+  ],
+  "scores": [
+    {
+      "dimension": "retail_expansion",
+      "score": 9,
+      "reason": "The company is active on Amazon, Walmart, and Erewhon, with a very recent expansion into Target Beauty Studio in September 2026.",
+      "evidence_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "dimension": "organizational_investment",
+      "score": 10,
+      "reason": "Significant investment in leadership (SVP of Ecommerce, Head of Digital Commerce) and active hiring for Digital Media and Commerce roles as recently as September 2026.",
+      "evidence_ids": [
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "dimension": "media_complexity",
+      "score": 8,
+      "reason": "Complex multi-channel strategy involving Amazon, Target, Walmart, and several social/search platforms managed by a dedicated digital media lead.",
+      "evidence_ids": [
+        0,
+        2,
+        4,
+        6,
+        10
+      ]
+    },
+    {
+      "dimension": "technology_opportunity",
+      "score": 8,
+      "reason": "High likelihood of need due to presence across multiple retailers (Amazon, Walmart, Target) and active scaling of their digital media team without mention of existing tools.",
+      "evidence_ids": [
+        0,
+        2,
+        4,
+        6,
+        10
+      ]
+    },
+    {
+      "dimension": "timing_urgency",
+      "score": 10,
+      "reason": "Multiple strong signals from the last three months, including a Target launch in September 2026 and hiring in August and September 2026.",
+      "evidence_ids": [
+        3,
+        5,
+        7
+      ]
+    }
+  ],
+  "total_score": 89.5,
+  "priority": "High",
+  "confidence": "High",
+  "confidence_reason": "11 facts, 2 inferences; 3 facts dated within the last year; 4 of 5 signal types covered; 9 undated items.",
+  "flags": [],
+  "trail": [
+    {
+      "round": 0,
+      "decision": "Initial sweep: search all five buying-signal types from the brief.",
+      "queries": [
+        "Clearstem now available at Walmart 2026",
+        "Clearstem hiring retail media manager",
+        "Clearstem launches new product line on Amazon",
+        "Clearstem hires head of ecommerce OR chief digital officer",
+        "Clearstem retail media interview measurement multiple retailers"
+      ],
+      "new_evidence": 13,
+      "score_after": 87.5,
+      "confidence_after": "High"
+    },
+    {
+      "round": 1,
+      "decision": "Gaps: Whether Clearstem is already utilizing a competing retail media management platform (e.g., Skai, Perpetua, Flywheel).. The assessment is high and nearly complete, but it lacks evidence regarding current technology usage. Checking for existing partnerships with competitors is the final key risk to validate the technology opportunity score. Result: no new evidence found, so the agent stopped.",
+      "queries": [
+        "Clearstem \"Skai\" OR \"Perpetua\" OR \"Flywheel\" OR \"Pacvue\" case study OR partnership"
+      ],
+      "new_evidence": 0,
+      "score_after": 89.5,
+      "confidence_after": "High"
+    }
+  ],
+  "brief": {
+    "why_attractive": "Clearstem is rapidly expanding its retail footprint, having launched into Target Beauty Studio in September 2026 [3] while maintaining a presence on Amazon and Walmart [2, 4]. They are aggressively investing in their digital team, recently hiring a Head of Digital Commerce & Growth and seeking a Digital Media Manager to handle multi-channel paid acquisition [6, 9]. I infer that managing separate ad consoles for Target, Walmart, and Amazon is becoming a significant operational burden for their new leadership.",
+    "relevant_capabilities": [
+      "Cross-retailer retail media management (Amazon, Walmart, Instacart, Target and more) from one dashboard",
+      "Digital shelf analytics (inventory, Buy Box, product content, share of voice, pricing)",
+      "Campaign automation (rules for bids and budgets)"
+    ],
+    "likely_buyer": "Anna C., Head of Digital Commerce & Growth",
+    "missing_info": [
+      "Whether they currently use a retail media aggregator or manage accounts natively",
+      "The specific KPIs for their new Target Beauty Studio launch",
+      "Who currently holds the budget authority for ad-tech tooling"
+    ],
+    "next_step": "Initiate personalized outreach to Anna C. and Emily Laats focusing on the complexity of their multi-retailer expansion.",
+    "outreach_draft": "Subject: Scaling Clearstem's retail media\n\nHi Anna,\n\nCongratulations on the recent expansion into Target Beauty Studio! As Clearstem continues to scale across Amazon, Walmart, and now Target, managing fragmented ad consoles can quickly become a bottleneck for a growing digital commerce team.\n\nPacvue helps brands centralize cross-retailer media management and digital shelf analytics into a single dashboard, allowing your team to optimize spend and visibility across all marketplaces in one place. \n\nI'd love to share how we can support your growth strategy. Do you have 15 minutes next Tuesday or Wednesday to connect?\n\nBest,\n\n[Your Name]\nPacvue",
+    "approval": "pending"
+  },
+  "updated_at": "2026-10-24T18:41:24"
+}

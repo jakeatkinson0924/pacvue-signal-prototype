@@ -72,6 +72,7 @@ table = pd.DataFrame([{
     "Priority": level(p.priority),
     "Confidence": level(p.confidence),
     "Evidence": len(p.evidence),
+    "Uses competitor": "Yes" if p.uses_competitor else "No",
     "Flags": len(p.flags),
     "Outreach": (p.brief.approval.capitalize() if p.brief else "–"),
 } for i, p in enumerate(prospects, 1)])
@@ -80,7 +81,7 @@ st.dataframe(
     hide_index=True,
     width="stretch",
     column_config={
-        "Score": st.column_config.ProgressColumn("Score (0-100)", min_value=0, max_value=100, format="%.0f"),
+        "Score": st.column_config.ProgressColumn("Score (0-100)", min_value=0, max_value=100, format="%.1f"),
         "Evidence": st.column_config.NumberColumn("Evidence items"),
     },
 )
@@ -101,7 +102,7 @@ with action:
             st.rerun()
 
 m1, m2, m3, m4 = st.columns(4)
-m1.metric("Opportunity score", f"{p.total_score:.0f}/100" if p.total_score is not None else "–")
+m1.metric("Opportunity score", f"{p.total_score:.1f}/100" if p.total_score is not None else "–")
 m2.metric("Priority", level(p.priority))
 m3.metric("Confidence", level(p.confidence))
 m4.metric("Evidence items", len(p.evidence))

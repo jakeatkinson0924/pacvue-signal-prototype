@@ -1,0 +1,329 @@
+{
+  "company": "Davids Toothpaste",
+  "evidence": [
+    {
+      "claim": "Davids Toothpaste products, including the Hydroxi Sensitive + Whitening variety, are available for purchase on Walmart.com.",
+      "source_url": "https://www.walmart.com/ip/Davids-Sensitive-Whitening-Nano-Hydroxyapatite-Premium-Toothpaste-Natural-Peppermint-4-oz/13955415392",
+      "source_title": "Davids Hydroxi™, Sensitive + Whitening Toothpaste, Natural Peppermint , 4 oz (113 g) - Walmart.com",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Walmart offers a dedicated brand section for Davids Health & Beauty products.",
+      "source_url": "https://www.walmart.com/browse/shop-with-purpose/for-you-health-beauty/davids/6048744_8747893_2975362_6430735/YnJhbmQ6RGF2aWRz",
+      "source_title": "Davids For you Health & Beauty in For You - Walmart.com",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Fluoride Free Nano Hydroxyapatite Toothpaste is listed for sale on Walmart's online marketplace.",
+      "source_url": "https://www.walmart.com/ip/Davids-Hydroxi-Fluoride-Free-STF9-nbsp-Nano-Hydroxyapatite-Toothpaste-Remineralizing-Enamel-Sensitive-Relief-Whitening-Antiplaque-SLS-Free-Natural-Pe/15826301964",
+      "source_title": "Davids Fluoride Free Nano STF9 Hydroxyapatite Toothpaste for Remineralizing Enamel & Sensitive Relief, Whitening, Antiplaque, SLS (Sulfate) Free, Natural Peppermint, 4 oz, Made in USA - Walmart.com",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Kids+Adults Whitening+Antiplaque Nano Hydroxyapatite Premium Toothpaste is available on Walmart.com.",
+      "source_url": "https://www.walmart.com/ip/Davids-Kids-Adults-Whitening-Antiplaque-Nano-Hydroxyapatite-Premium-Toothpaste-Natural-Orange-Vanilla-4-oz/13950805695",
+      "source_title": "Davids Kids+Adults Whitening+Antiplaque Nano Hydroxyapatite Premium Toothpaste - Natural Orange Vanilla / 4 oz - Walmart.com",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Health Sciences, Inc. is hiring a Senior Brand Manager to direct marketing strategy across channels and drive innovation.",
+      "source_url": "https://www.jobleads.com/us/job/senior-brand-manager--menifee--e25d2401913f5d0d64b3f22a83fc859f0",
+      "source_title": "Senior Brand Manager",
+      "published": "unknown",
+      "signal_type": "retail_media_hiring",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste uses Perpetua and Cartograph to scale its Amazon store through full-funnel media strategies and Amazon Marketing Cloud insights.",
+      "source_url": "https://advertising.amazon.com/library/case-studies/perpetua-cartograph-davids-toothpaste-full-funnel",
+      "source_title": "Perpetua and Cartograph help Davids Toothpaste scale | Amazon Ads",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste is a beauty and personal care brand that sells on the Amazon store.",
+      "source_url": "https://advertising.amazon.com/library/case-studies/perpetua-cartograph-davids-toothpaste-full-funnel",
+      "source_title": "Perpetua and Cartograph help Davids Toothpaste scale | Amazon Ads",
+      "published": "unknown",
+      "signal_type": "amazon_launch",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste worked with Cartograph to launch kits and bundles and implement a strategic advertising plan on Amazon.",
+      "source_url": "https://www.gocartograph.com/case-studies/davids-toothpaste",
+      "source_title": "Amazon Success Stories | Cartograph",
+      "published": "unknown",
+      "signal_type": "amazon_launch",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste utilized DSP ads and a full-funnel media strategy to increase purchase rates and new-to-brand share on Amazon.",
+      "source_url": "https://advertising.amazon.com/library/case-studies/perpetua-cartograph-davids-toothpaste-full-funnel",
+      "source_title": "Perpetua and Cartograph help Davids Toothpaste scale | Amazon Ads",
+      "published": "unknown",
+      "signal_type": "amazon_launch",
+      "kind": "fact"
+    },
+    {
+      "claim": "Two new Hydroxi™ toothpaste flavors announced on March 3, 2026, were scheduled for Amazon availability.",
+      "source_url": "https://www.prnewswire.com/news-releases/davids-expands-hydroxi-line-with-two-new-nano-hydroxyapatite-toothpaste-flavors-debuting-at-expo-west-2026-302701647.html",
+      "source_title": "Davids Expands Hydroxi™ Line with Two New Nano-Hydroxyapatite Toothpaste Flavors, Debuting at Expo West 2026",
+      "published": "2026-03-03",
+      "signal_type": "amazon_launch",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste has utilized Perpetua and Cartograph's automation and Amazon Marketing Cloud insights to scale their Amazon store operations.",
+      "source_url": "https://advertising.amazon.com/library/case-studies/perpetua-cartograph-davids-toothpaste-full-funnel",
+      "source_title": "Perpetua and Cartograph help Davids Toothpaste scale | Amazon Ads",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste implemented a strategic media approach with Digicom to reduce customer acquisition cost (CAC) and increase new customer revenue.",
+      "source_url": "https://www.digicom.io/case-studies/davids",
+      "source_title": "Digicom V1.0",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids has appointed Jeff Johnson as Chief Marketing Officer to lead the organization into its next phase of growth and expand its reach.",
+      "source_url": "https://www.linkedin.com/posts/davidshealthsciences_its-time-to-elevate-oral-care-even-further-activity-7434358930522374144-M9d2",
+      "source_title": "It’s time to elevate oral care even further at Davids.",
+      "published": "2026-03-02",
+      "signal_type": "retail_media_hiring",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste used Perpetua's automation and Amazon Marketing Cloud insights to coordinate multi-touch campaigns and scale their Amazon store.",
+      "source_url": "https://advertising.amazon.com/library/case-studies/perpetua-cartograph-davids-toothpaste-full-funnel",
+      "source_title": "Perpetua and Cartograph help Davids Toothpaste scale | Amazon Ads",
+      "published": "unknown",
+      "signal_type": "ad_complexity_pain",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste sought a strategic advertising plan to gain market share and make entry-level products profitable long-term.",
+      "source_url": "https://www.gocartograph.com/case-studies/davids-toothpaste",
+      "source_title": "Amazon Success Stories | Cartograph",
+      "published": "unknown",
+      "signal_type": "ad_complexity_pain",
+      "kind": "fact"
+    },
+    {
+      "claim": "The brand faced the challenge of simultaneously reducing customer acquisition cost (CAC) while increasing new customer revenue, requiring a highly strategic and optimized media approach.",
+      "source_url": "https://www.digicom.io/case-studies/davids",
+      "source_title": "Digicom V1.0",
+      "published": "unknown",
+      "signal_type": "ad_complexity_pain",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste has an active presence on Walmart.com with multiple product listings including Hydroxi and Whitening + Antiplaque toothpaste.",
+      "source_url": "https://www.walmart.com/ip/Davids-Sensitive-Whitening-Nano-Hydroxyapatite-Premium-Toothpaste-Natural-Peppermint-4-oz/13955415392",
+      "source_title": "Davids Hydroxi™, Sensitive + Whitening Toothpaste, Natural Peppermint , 4 oz (113 g) - Walmart.com",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste is sold at Target, featuring products like the Whitening + Antiplaque Natural Spearmint toothpaste.",
+      "source_url": "https://www.target.com/p/davids-premium-toothpaste-whitening-antiplaque-natural-spearmint-5-25-oz-149-g/-/A-1003546137",
+      "source_title": "Davids Whitening + Antiplaque Toothpaste, Natural Spearmint , 5.25 oz (149 g) : Target",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste utilizes Perpetua's automation and Amazon Marketing Cloud insights to scale its Amazon business.",
+      "source_url": "https://advertising.amazon.com/library/case-studies/perpetua-cartograph-davids-toothpaste-full-funnel",
+      "source_title": "Perpetua and Cartograph help Davids Toothpaste scale | Amazon Ads",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "As of July 2026, Davids Toothpaste continues to use Perpetua for automation and strategic media planning to drive customer acquisition on Amazon.",
+      "source_url": "https://www.linkedin.com/posts/perpetua-labs_2421-purchase-rate-lift-activity-7483088479803981824-chwN",
+      "source_title": "A connected strategy across the shopper journey can unlock significant growth 💫",
+      "published": "2026-07-15",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste uses Perpetua's automation and Amazon Marketing Cloud insights to scale new customer acquisition on Amazon.",
+      "source_url": "https://advertising.amazon.com/library/case-studies/perpetua-cartograph-davids-toothpaste-full-funnel",
+      "source_title": "Perpetua and Cartograph help Davids Toothpaste scale | Amazon Ads",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste sells products on Target.",
+      "source_url": "https://www.target.com/p/davids-premium-toothpaste-whitening-antiplaque-natural-spearmint-5-25-oz-149-g/-/A-1003546137",
+      "source_title": "Davids Whitening + Antiplaque Toothpaste, Natural Spearmint , 5.25 oz (149 g) : Target",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Davids Toothpaste sells products on Walmart.",
+      "source_url": "https://www.walmart.com/browse/personal-care/sensitive-toothpaste/davids-natural-toothpaste/1005862_1007221_1023020_5301211/YnJhbmQ6RGF2aWRzIE5hdHVyYWwgVG9vdGhwYXN0ZQieie",
+      "source_title": "Davids Natural Toothpaste Sensitive Toothpaste in Toothpaste - Walmart.com",
+      "published": "unknown",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "There is no evidence in the provided results that Davids Toothpaste uses Perpetua for its Walmart or Target accounts.",
+      "source_url": "https://advertising.amazon.com/library/case-studies/perpetua-cartograph-davids-toothpaste-full-funnel",
+      "source_title": "Perpetua and Cartograph help Davids Toothpaste scale | Amazon Ads",
+      "published": "unknown",
+      "signal_type": "other",
+      "kind": "inference"
+    },
+    {
+      "claim": "Jeff Johnson joined Davids as Chief Marketing Officer to lead the marketing organization and expand reach.",
+      "source_url": "https://www.linkedin.com/posts/davidshealthsciences_its-time-to-elevate-oral-care-even-further-activity-7434358930522374144-M9d2",
+      "source_title": "It’s time to elevate oral care even further at Davids.",
+      "published": "2026-03-02",
+      "signal_type": "retail_media_hiring",
+      "kind": "fact"
+    }
+  ],
+  "scores": [
+    {
+      "dimension": "retail_expansion",
+      "score": 8,
+      "reason": "The company has an active presence across multiple major retailers including Amazon, Walmart, and Target.",
+      "evidence_ids": [
+        0,
+        6,
+        16,
+        17,
+        21,
+        22
+      ]
+    },
+    {
+      "dimension": "organizational_investment",
+      "score": 7,
+      "reason": "The company has recently appointed a new CMO and is hiring a Senior Brand Manager to lead marketing strategy.",
+      "evidence_ids": [
+        4,
+        12,
+        24
+      ]
+    },
+    {
+      "dimension": "media_complexity",
+      "score": 7,
+      "reason": "They manage multi-channel strategies across Amazon, Walmart, and Target, utilizing full-funnel media and DSP ads.",
+      "evidence_ids": [
+        8,
+        13,
+        15
+      ]
+    },
+    {
+      "dimension": "technology_opportunity",
+      "score": 3,
+      "reason": "The company is already using a direct competitor, Perpetua, to scale its Amazon operations.",
+      "evidence_ids": [
+        5,
+        10,
+        13,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "dimension": "timing_urgency",
+      "score": 9,
+      "reason": "Strong signals are very recent, including a CMO appointment in March 2026 and confirmed tool usage in July 2026.",
+      "evidence_ids": [
+        9,
+        12,
+        19,
+        24
+      ]
+    }
+  ],
+  "total_score": 67.5,
+  "priority": "Medium",
+  "confidence": "High",
+  "confidence_reason": "24 facts, 1 inferences; 4 facts dated within the last year; 5 of 5 signal types covered; 21 undated items.",
+  "flags": [
+    "Currently uses competitor Perpetua for Amazon operations",
+    "Uses Cartograph for Amazon strategy"
+  ],
+  "uses_competitor": true,
+  "trail": [
+    {
+      "round": 0,
+      "decision": "Initial sweep: search all five buying-signal types from the brief.",
+      "queries": [
+        "Davids Toothpaste now available at Walmart 2026",
+        "Davids Toothpaste hiring retail media manager",
+        "Davids Toothpaste launches new product line on Amazon",
+        "Davids Toothpaste hires head of ecommerce OR chief digital officer",
+        "Davids Toothpaste retail media interview measurement multiple retailers"
+      ],
+      "new_evidence": 16,
+      "score_after": 53.0,
+      "confidence_after": "Medium"
+    },
+    {
+      "round": 1,
+      "decision": "Gaps: Confirmation of current active presence on Walmart and Target (dating the evidence); Recent 2026 updates on their retail media tech stack to see if they have moved beyond or are still using Perpetua. Most current evidence is undated, and the technology_opportunity score is very low due to the use of Perpetua. Verifying if this partnership is current or if they have expanded to other retailers like Target in 2026 would significantly impact the scores.",
+      "queries": [
+        "Davids Toothpaste 'Target' OR 'Walmart' 2026",
+        "Davids Toothpaste 'Perpetua' OR 'Skai' OR 'Flywheel' case study 2026"
+      ],
+      "new_evidence": 4,
+      "score_after": 64.0,
+      "confidence_after": "High"
+    },
+    {
+      "round": 2,
+      "decision": "Gaps: Whether Davids Toothpaste uses Perpetua for Walmart or Target, or only for Amazon.; Any recent shifts in their tech stack since July 2026 that might open a gap for Pacvue.. The current assessment is hampered by a low technology_opportunity score because they use Perpetua. I need to determine if Perpetua is being used across all their retail channels (Walmart/Target) or specifically for Amazon, as a multi-retailer expansion without a unified tool would increase the opportunity for Pacvue.",
+      "queries": [
+        "Davids Toothpaste 'Perpetua' Walmart Target",
+        "Davids Toothpaste retail media strategy 2026"
+      ],
+      "new_evidence": 5,
+      "score_after": 60.5,
+      "confidence_after": "High"
+    }
+  ],
+  "brief": {
+    "why_attractive": "Davids Toothpaste has an active presence across Amazon, Walmart, and Target [0, 6, 17] and is investing in leadership with a new CMO and a Senior Brand Manager hire [4, 12]. While they use Perpetua for Amazon [19], they are managing a complex multi-channel strategy [14, 15], suggesting a potential gap in unified cross-retailer management.",
+    "relevant_capabilities": [
+      "Cross-retailer retail media management (Amazon, Walmart, Instacart, Target and more) from one dashboard",
+      "Cross-retailer measurement and reporting",
+      "Digital shelf analytics (inventory, Buy Box, product content, share of voice, pricing)"
+    ],
+    "likely_buyer": "Jeff Johnson",
+    "missing_info": [
+      "Whether Perpetua is being used for Walmart and Target or only Amazon",
+      "Current pain points regarding reporting consistency across their three main retailers",
+      "The specific KPIs the new CMO is prioritizing for the 2026-2027 growth phase"
+    ],
+    "next_step": "Execute a switch approach: Research if Perpetua's current implementation for Davids is limited to Amazon, then pitch Pacvue's superior ability to unify Amazon, Walmart, and Target in a single dashboard.",
+    "outreach_draft": "Subject: Scaling Davids' multi-retailer growth\n\nHi Jeff,\n\nCongratulations on your role as CMO at Davids. With your focus on expanding reach and the brand's active presence across Amazon, Walmart, and Target, managing fragmented data across dashboards can be a significant hurdle to scaling.\n\nWhile many brands use point solutions for Amazon, Pacvue provides a single source of truth for retail media and digital shelf analytics across all your key retailers. I'd love to share how we can help unify your cross-channel reporting to further optimize your customer acquisition costs.\n\nDo you have 15 minutes next week to connect?\n\nBest,\n\n[Your Name]\nPacvue",
+    "approval": "pending"
+  },
+  "updated_at": "2026-10-24T14:18:38"
+}

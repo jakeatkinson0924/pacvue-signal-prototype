@@ -77,6 +77,9 @@ class ScoreSet(BaseModel):
     identity_uncertain: bool = Field(
         False, description="True if some evidence may be about a different company with a similar name."
     )
+    competitor_confirmed: bool = Field(
+        False, description="True only if evidence shows the company currently uses a competing retail media platform or agency (e.g., Skai, Perpetua, Flywheel)."
+    )
 
 
 class ResearchPlan(BaseModel):
@@ -122,6 +125,7 @@ class Prospect(BaseModel):
     confidence: Literal["High", "Medium", "Low"] | None = None
     confidence_reason: str = ""
     flags: list[str] = Field(default_factory=list)
+    uses_competitor: bool = False  # confirmed competitor -> priority capped at Medium (Jake's rule)
     trail: list[ResearchStep] = Field(default_factory=list)
     brief: AccountBrief | None = None
     updated_at: str = Field(default_factory=lambda: datetime.now().isoformat(timespec="seconds"))

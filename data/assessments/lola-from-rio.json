@@ -1,0 +1,287 @@
+{
+  "company": "Lola from Rio",
+  "evidence": [
+    {
+      "claim": "Lola from Rio is expanding its retail presence into Walmart USA, Walmart Puerto Rico, and Navarro stores.",
+      "source_url": "https://www.prnewswire.com/news-releases/lola-from-rio-expands-to-retail-stores-bringing-brazilian-beauty-to-walmart-usa-puerto-rico-and-navarro-302394700.html",
+      "source_title": "Lola from Rio Expands to Retail Stores, Bringing Brazilian Beauty to Walmart USA, Puerto Rico, and Navarro",
+      "published": "2025-03-06",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola from Rio cosmetics are available in 50 countries, including Morocco, Qatar, Kuwait, and Saudi Arabia.",
+      "source_url": "https://anba.com.br/en/lola-from-rio-cosmetics-reach-50-countries/",
+      "source_title": "Lola from Rio cosmetics reach 50 countries",
+      "published": "2026-08-20",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "The expansion includes the Rapunzel, Meu Cacho Minha Vida, Morte Súbita, Xapadinha, and Ela É Carioca collections in major retailers.",
+      "source_url": "https://drugstorenews.com/lola-rio-expands-walmart-usa-walmart-puerto-rico-and-navarro",
+      "source_title": "Lola from Rio expands to Walmart USA, Walmart Puerto Rico and Navarro | Drug Store News",
+      "published": "2025-03-19",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola from Rio is reported to be present in 80 countries.",
+      "source_url": "https://pt.linkedin.com/posts/rlpaiva_uma-marca-brasileira-em-80-pa%C3%ADses-mirando-activity-7484970467506790400-NeGz",
+      "source_title": "Uma marca brasileira em 80 países.",
+      "published": "2026-07-20",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola From Rio has an open position for a Digital Marketing Coordinator with a focus on performance and paid traffic.",
+      "source_url": "https://br.sercanto.com/detail/a/coordenador-a-de-marketing-digital_rio-de-janeiro_415308644",
+      "source_title": "Coordenador(a) de Marketing Digital - Rio de Janeiro | Sercanto",
+      "published": "unknown",
+      "signal_type": "retail_media_hiring",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola From Rio advertised a vacancy for a Trade Marketing Assistant.",
+      "source_url": "https://www.linkedin.com/posts/crisna-pires_confira-esta-vaga-na-lola-from-rio-assistente-activity-7254867966683475972-74HJ",
+      "source_title": "Confira esta vaga na Lola From Rio: Assistente de Trade Marketing",
+      "published": "2024-10-23",
+      "signal_type": "retail_media_hiring",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola Cosmetics (Lola From Rio) lists 'Varejo' (Retail) and 'Comercial' (Commercial) as available areas for recruitment.",
+      "source_url": "https://www.lolacosmetics.com.br/pages/trabalhe-conosco",
+      "source_title": "Trabalhe Conosco – Lola Cosmetics",
+      "published": "unknown",
+      "signal_type": "retail_media_hiring",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola From Rio products, such as the Meu Cacho Minha Vida Curl Defining Cream, are available for purchase on Amazon.com.",
+      "source_url": "https://www.amazon.com/lola-rio/s?k=lola+from+rio",
+      "source_title": "Amazon.com: Lola From Rio",
+      "published": "unknown",
+      "signal_type": "amazon_launch",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola From Rio evaluated starting the export of its cosmetics to the United States in 2024, intending to sell via the Amazon platform.",
+      "source_url": "https://www.poder360.com.br/poder-empreendedor/lola-quer-iniciar-exportacao-para-os-eua-em-2024/",
+      "source_title": "Lola quer iniciar exportação para os EUA em 2024",
+      "published": "2023-12-31",
+      "signal_type": "amazon_launch",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola From Rio sells the Rapunzel Hair Care Set on Amazon.",
+      "source_url": "https://www.amazon.com/Lola-Rio-Rapunzel-Hair-Care/dp/B0BV8KFJYZ",
+      "source_title": "Lola From Rio Rapunzel Hair Care Set: Hair Tonic, Rejuvenating Shampoo, and Milk Spray for Strong, Healthy, Voluminous Hair - 8.45 Fl Oz Each",
+      "published": "unknown",
+      "signal_type": "amazon_launch",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola From Rio has a dedicated Head of E-commerce B2B leading the strategy and operation of the digital channel.",
+      "source_url": "https://linkedin.com/in/gleice-pellegrine-1349587b",
+      "source_title": "Gleice Pellegrine",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola From Rio operates across B2B channels (Brazil and International Retail) and B2C channels (Lola Stores and E-commerce).",
+      "source_url": "https://pt.linkedin.com/posts/vaclavfilho_bastidores-s-brasil-activity-7300241458307989505-JXsh",
+      "source_title": "Para vocês que curtem os de Lola From Rio, tivemos uma reunião histórica e inédita na semana passada: nossa primeira rodada de (Sales and Operations Planning).",
+      "published": "2025-02-25",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola From Rio is recruiting a Digital Marketing Coordinator to lead strategy with a focus on performance and paid traffic to support company growth in Brazil and abroad.",
+      "source_url": "https://br.sercanto.com/detail/a/coordenador-a-de-marketing-digital_rio-de-janeiro_415308644",
+      "source_title": "Coordenador(a) de Marketing Digital - Rio de Janeiro | Sercanto",
+      "published": "unknown",
+      "signal_type": "retail_media_hiring",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola from Rio is expanding its product availability into Walmart USA, Walmart Puerto Rico, and Navarro.",
+      "source_url": "https://drugstorenews.com/lola-rio-expands-walmart-usa-walmart-puerto-rico-and-navarro",
+      "source_title": "Lola from Rio expands to Walmart USA, Walmart Puerto Rico and Navarro | Drug Store News",
+      "published": "2025-03-19",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola Cosmetics rebranded as Lola from Rio to better highlight its Brazilian identity for the international market.",
+      "source_url": "https://www.brazilbeautynews.com/comercio-exterior-deve-representar-30-das-vendas,4882",
+      "source_title": "Comércio exterior deve representar 30% das vendas da Lola from Rio até 2025 - Brazil Beauty News",
+      "published": "2023-11-14",
+      "signal_type": "other",
+      "kind": "fact"
+    },
+    {
+      "claim": "Lola from Rio's foreign trade is projected to represent 30% of its sales by 2025.",
+      "source_url": "https://www.brazilbeautynews.com/comercio-exterior-deve-representar-30-das-vendas,4882",
+      "source_title": "Comércio exterior deve representar 30% das vendas da Lola from Rio até 2025 - Brazil Beauty News",
+      "published": "2023-11-14",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "LOLA partnered with Flywheel Digital to implement a revenue-first SEO strategy and resolve technical debt to recover organic traffic and revenue.",
+      "source_url": "https://flywheel.digital/case-study/lola/",
+      "source_title": "Organic Recovery & Growth For LOLA | Flywheel Digital",
+      "published": "unknown",
+      "signal_type": "other",
+      "kind": "fact"
+    },
+    {
+      "claim": "Flywheel Digital provided a holistic revenue-first SEO strategy for LOLA (mylola.com) to recover organic traffic and revenue following a domain migration.",
+      "source_url": "https://flywheel.digital/case-study/lola/",
+      "source_title": "Organic Recovery & Growth For LOLA | Flywheel Digital",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Flywheel Digital's partnership with LOLA involved resolving technical debt and optimizing core pages, resulting in a 279% increase in organic revenue.",
+      "source_url": "https://flywheel.digital/case-study/lola/",
+      "source_title": "Organic Recovery & Growth For LOLA | Flywheel Digital",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "The partnership between LOLA and Flywheel Digital was highlighted in professional posts as recently as September 2024.",
+      "source_url": "https://www.linkedin.com/posts/liznugentgsd_organic-recovery-growth-for-lola-flywheel-activity-7240049547610091520-gUVG",
+      "source_title": "When you get the opportunity to work with a brand that’s an advocate for women’s health, there’s no option but to make it a grand slam.",
+      "published": "2024-09-12",
+      "signal_type": "other",
+      "kind": "fact"
+    }
+  ],
+  "scores": [
+    {
+      "dimension": "retail_expansion",
+      "score": 9,
+      "reason": "Strong evidence of expanding into Walmart USA, Walmart Puerto Rico, Navarro, and maintaining a presence across 80 countries.",
+      "evidence_ids": [
+        0,
+        1,
+        2,
+        3,
+        13
+      ]
+    },
+    {
+      "dimension": "organizational_investment",
+      "score": 7,
+      "reason": "Investing in specialized roles including a Head of E-commerce B2B and Digital Marketing Coordinators focused on performance and paid traffic.",
+      "evidence_ids": [
+        4,
+        10,
+        12
+      ]
+    },
+    {
+      "dimension": "media_complexity",
+      "score": 8,
+      "reason": "High complexity due to presence on Amazon, Walmart, and numerous international markets across multiple product collections.",
+      "evidence_ids": [
+        0,
+        1,
+        3,
+        7,
+        9,
+        13
+      ]
+    },
+    {
+      "dimension": "technology_opportunity",
+      "score": 4,
+      "reason": "While they have a complex setup, they are currently partnered with Flywheel Digital, a direct competitor.",
+      "evidence_ids": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "dimension": "timing_urgency",
+      "score": 8,
+      "reason": "Retail expansion signals are very recent (August 2026), indicating active growth.",
+      "evidence_ids": [
+        1,
+        3
+      ]
+    }
+  ],
+  "total_score": 72.5,
+  "priority": "Medium",
+  "confidence": "Medium",
+  "confidence_reason": "20 facts, 0 inferences; 2 facts dated within the last year; 4 of 5 signal types covered; 9 undated items.",
+  "flags": [
+    "Confirmed partnership with competitor Flywheel Digital for SEO and revenue strategy.",
+    "Some hiring evidence is undated.",
+    "Priority capped at Medium: already uses a competing platform (switch opportunity)."
+  ],
+  "uses_competitor": true,
+  "trail": [
+    {
+      "round": 0,
+      "decision": "Initial sweep: search all five buying-signal types from the brief.",
+      "queries": [
+        "Lola from Rio now available at Walmart 2026",
+        "Lola from Rio hiring retail media manager",
+        "Lola from Rio launches new product line on Amazon",
+        "Lola from Rio hires head of ecommerce OR chief digital officer",
+        "Lola from Rio retail media interview measurement multiple retailers"
+      ],
+      "new_evidence": 16,
+      "score_after": 78.5,
+      "confidence_after": "Medium"
+    },
+    {
+      "round": 1,
+      "decision": "Gaps: Confirmation of current use of retail media platforms (e.g., Skai, Perpetua, Flywheel).; Recent (2026) dates for the Digital Marketing Coordinator and Amazon growth signals to resolve 'undated' flags.. The current assessment is strong, but confidence is limited by undated hiring signals and a lack of evidence regarding existing technology usage. Identifying a competitor tool or confirming the current status of their performance marketing hires would move confidence to High.",
+      "queries": [
+        "Lola from Rio \"Skai\" OR \"Perpetua\" OR \"Flywheel\" OR \"Pacvue\" case study",
+        "Lola from Rio \"Digital Marketing Coordinator\" performance paid traffic 2026"
+      ],
+      "new_evidence": 1,
+      "score_after": 70.5,
+      "confidence_after": "Medium"
+    },
+    {
+      "round": 2,
+      "decision": "Gaps: Current status of the partnership with Flywheel Digital (is it active or expired?); Dates for the Digital Marketing Coordinator and Head of E-commerce B2B roles to confirm current timing urgency.; Direct evidence of active retail media spend on Walmart Connect or Amazon Advertising in 2026.. The primary inhibitor to a higher score is the existing partnership with Flywheel Digital. Determining if this is a current engagement or a past project is the most critical factor for the technology opportunity score. Additionally, dating the hiring signals would solidify the timing urgency score. Result: assessment essentially unchanged, so the agent stopped (diminishing returns).",
+      "queries": [
+        "Lola from Rio \"Flywheel Digital\" 2025 OR 2026",
+        "Lola from Rio \"Digital Marketing Coordinator\" vacancy date 2026"
+      ],
+      "new_evidence": 3,
+      "score_after": 70.5,
+      "confidence_after": "Medium"
+    }
+  ],
+  "brief": {
+    "why_attractive": "Lola from Rio is aggressively expanding its retail footprint into Walmart USA, Walmart Puerto Rico, and Navarro [0, 13], and is present in up to 80 countries [3]. They are investing in specialized talent for performance and paid traffic [4, 12]. I infer that this rapid multi-retailer growth creates a significant need for centralized media management and scalable automation.",
+    "relevant_capabilities": [
+      "Cross-retailer retail media management (Amazon, Walmart, Instacart, Target and more) from one dashboard",
+      "Campaign automation (rules for bids and budgets)",
+      "Digital shelf analytics (inventory, Buy Box, product content, share of voice, pricing)"
+    ],
+    "likely_buyer": "Head of E-commerce B2B",
+    "missing_info": [
+      "Scope of the current Flywheel Digital partnership (is it strictly SEO/organic or does it include paid media management?)",
+      "Specific KPIs for the new Digital Marketing Coordinator role",
+      "Current toolset used for managing Walmart and Amazon paid spend"
+    ],
+    "next_step": "Pursue a 'switch' approach: research if Flywheel's current scope is limited to the SEO/technical debt project mentioned in [16, 17] and identify gaps in their paid media automation or cross-retailer reporting before pitching.",
+    "outreach_draft": "Subject: Scaling Lola from Rio's US Retail Growth\n\nDear Head of E-commerce B2B,\n\nI noticed Lola from Rio's recent expansion into Walmart USA and Puerto Rico. As you scale across Amazon and Walmart, managing fragmented ad accounts can become a bottleneck for performance.\n\nPacvue helps brands centralize cross-retailer media management and automate bidding and budgets from a single dashboard to maintain efficiency during rapid growth. I'd love to learn more about your current digital strategy and see if our automation capabilities can support your international expansion goals.\n\nDo you have 15 minutes next week to connect?\n\nBest regards,\n\n[My Name]\nPacvue",
+    "approval": "pending"
+  },
+  "updated_at": "2026-10-24T14:19:20"
+}

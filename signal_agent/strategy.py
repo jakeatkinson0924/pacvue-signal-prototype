@@ -32,6 +32,8 @@ Write the brief:
 - likely_buyer: the role most likely to buy (e.g., "Head of Ecommerce"). Only name a person if the evidence names them.
 - missing_info: what a salesperson still needs to find out.
 - next_step: one concrete action. If priority or confidence is Low, recommend monitoring rather than outreach.
+  If the company already uses a competing platform ({competitor}), recommend a "switch" approach:
+  learn what the current tool doesn't cover (e.g., retailers, analytics) before pitching.
 - outreach_draft: a short email (under 120 words) from a Pacvue rep to [Name], referencing one public signal.
   Do not invent facts, statistics, or results. Do not claim Pacvue guarantees outcomes."""
 
@@ -49,6 +51,7 @@ def write_brief(prospect: Prospect) -> AccountBrief:
             confidence_reason=prospect.confidence_reason,
             scores=scores,
             flags="; ".join(prospect.flags) or "none",
+            competitor="confirmed" if prospect.uses_competitor else "not confirmed",
             evidence=format_evidence(prospect.evidence),
         )}],
         AccountBrief,

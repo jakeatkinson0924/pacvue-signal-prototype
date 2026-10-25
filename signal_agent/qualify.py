@@ -89,6 +89,11 @@ def qualify(prospect: Prospect) -> Prospect:
     prospect.flags = result.flags
     prospect.total_score = weighted_total(prospect)
     prospect.priority = priority_for(prospect.total_score)
+    # Jake's rule: a confirmed competitor user is harder to win, so it can't be top priority.
+    prospect.uses_competitor = result.competitor_confirmed
+    if prospect.uses_competitor and prospect.priority == "High":
+        prospect.priority = "Medium"
+        prospect.flags.append("Priority capped at Medium: already uses a competing platform (switch opportunity).")
     prospect.confidence, prospect.confidence_reason = confidence_for(prospect.evidence)
     if result.identity_uncertain and prospect.confidence == "High":
         prospect.confidence = "Medium"

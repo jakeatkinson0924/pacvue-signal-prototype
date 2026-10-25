@@ -1,0 +1,215 @@
+{
+  "company": "My Flexy",
+  "evidence": [
+    {
+      "claim": "My Flexy launched its beauty and sleep wellness products on Walmart Marketplace.",
+      "source_url": "https://www.pr.com/press-release/973742",
+      "source_title": "My Flexy Launches on Walmart Marketplace, Bringing Clean Beauty and Sleep Essentials to Millions - PR.com",
+      "published": "2026-07-16",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "My Flexy announced via its blog on July 21, 2026, that it is now available on Walmart.com through Walmart Marketplace.",
+      "source_url": "https://myflexy.com/pages/blog",
+      "source_title": "Blog – My Flexy USA",
+      "published": "2026-07-21",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "My Flexy has expanded its availability to customers nationwide through Walmart.com.",
+      "source_url": "https://www.openpr.com/news/4577007/my-flexy-launches-on-walmart-marketplace-bringing-clean-beauty",
+      "source_title": "My Flexy Launches on Walmart Marketplace, Bringing Clean Beauty",
+      "published": "2026-07-15",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "My Flexy launched its products on Walmart Marketplace, making a selection of bestselling beauty and wellness products available on Walmart.com.",
+      "source_url": "https://www.pr.com/press-release/973742",
+      "source_title": "My Flexy Launches on Walmart Marketplace, Bringing Clean Beauty and Sleep Essentials to Millions - PR.com",
+      "published": "2026-07-16",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "My Flexy is available on Walmart.com through the Walmart Marketplace.",
+      "source_url": "https://myflexy.com/pages/blog",
+      "source_title": "Blog – My Flexy USA",
+      "published": "2026-07-21",
+      "signal_type": "retail_expansion",
+      "kind": "fact"
+    },
+    {
+      "claim": "There is no mention of My Flexy launching or selling products on Amazon in the provided search results.",
+      "source_url": "https://myflexy.com/",
+      "source_title": "Where Clean Beauty Meets Real-Life Wellness – My Flexy USA",
+      "published": "unknown",
+      "signal_type": "amazon_launch",
+      "kind": "inference"
+    },
+    {
+      "claim": "Flexy is an e-commerce platform serving industries, retail companies, and franchises.",
+      "source_url": "https://www.nsctotal.com.br/colunistas/estela-benetti/fundador-de-plataforma-de-e-commerce-volta-a-liderara-a-empresa-em-florianopolis",
+      "source_title": "Fundador de plataforma de e-commerce volta a liderar a empresa em Florianópolis - NSC Total",
+      "published": "2023-08-11",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Flexy provides B2B, B2C, and marketplace e-commerce solutions to help companies increase sales and reduce costs.",
+      "source_url": "https://flexydigital.com.br/",
+      "source_title": "Flexy - Plataforma de E-commerce B2B, Marketplace e B2C",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "Flexy has facilitated over R$ 8 billion in transactions over more than 14 years of operation.",
+      "source_url": "https://linkedin.com/company/flexy-plataforma-vendas",
+      "source_title": "Flexy Plataforma de E-commerce",
+      "published": "unknown",
+      "signal_type": "commerce_investment",
+      "kind": "fact"
+    },
+    {
+      "claim": "My Flexy is a clean-conscious wellness brand that sells self-care essentials including mouth tape, pimple patches, and tanning lotion.",
+      "source_url": "https://myflexy.com/pages/about-us",
+      "source_title": "About My Flexy | Wellness Made Simple & Clean – My Flexy USA",
+      "published": "unknown",
+      "signal_type": "other",
+      "kind": "fact"
+    },
+    {
+      "claim": "My Flexy products, including collagen face masks and pimple patches, are available for purchase on Amazon.",
+      "source_url": "https://www.amazon.com/My-Flexy-Collagen-Under-Masks/dp/B0G42MF1H1",
+      "source_title": "Collagen Face Mask & Gold Under Eye Gel Masks – Hydrating Lift + Brightening Under-Eye Treatment – Clean Beauty Skincare Duo for Radiance & Firming",
+      "published": "unknown",
+      "signal_type": "amazon_launch",
+      "kind": "fact"
+    },
+    {
+      "claim": "My Flexy is a distinct brand focusing on beauty and wellness products, whereas Flexy App is a London-based retail company focused on subscription management.",
+      "source_url": "https://linkedin.com/company/flexyappuk",
+      "source_title": "Flexy App",
+      "published": "unknown",
+      "signal_type": "other",
+      "kind": "inference"
+    }
+  ],
+  "scores": [
+    {
+      "dimension": "retail_expansion",
+      "score": 8,
+      "reason": "The company recently expanded its beauty and wellness product line to Walmart Marketplace in July 2026.",
+      "evidence_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "dimension": "organizational_investment",
+      "score": 1,
+      "reason": "No evidence of hiring or investing in ecommerce/retail media teams for My Flexy.",
+      "evidence_ids": []
+    },
+    {
+      "dimension": "media_complexity",
+      "score": 5,
+      "reason": "The company sells across at least two major retailers (Amazon and Walmart) with multiple product categories.",
+      "evidence_ids": [
+        0,
+        10
+      ]
+    },
+    {
+      "dimension": "technology_opportunity",
+      "score": 6,
+      "reason": "Multi-retailer presence on Amazon and Walmart suggests a need for cross-retailer management tools.",
+      "evidence_ids": [
+        0,
+        10
+      ]
+    },
+    {
+      "dimension": "timing_urgency",
+      "score": 9,
+      "reason": "Retail expansion signals are very recent, occurring in July 2026.",
+      "evidence_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "total_score": 57.5,
+  "priority": "Medium",
+  "confidence": "Medium",
+  "confidence_reason": "10 facts, 2 inferences; 5 facts dated within the last year; 3 of 5 signal types covered; 6 undated items. Capped at Medium: some evidence may be about a different company.",
+  "flags": [
+    "Evidence includes information about 'Flexy', which appears to be a different e-commerce platform rather than the 'My Flexy' wellness brand.",
+    "Follow-up research incomplete: web search was unavailable (free-plan hourly limit)."
+  ],
+  "trail": [
+    {
+      "round": 0,
+      "decision": "Initial sweep: search all five buying-signal types from the brief.",
+      "queries": [
+        "My Flexy now available at Walmart 2026",
+        "My Flexy hiring retail media manager",
+        "My Flexy launches new product line on Amazon",
+        "My Flexy hires head of ecommerce OR chief digital officer",
+        "My Flexy retail media interview measurement multiple retailers"
+      ],
+      "new_evidence": 9,
+      "score_after": 57.5,
+      "confidence_after": "Medium"
+    },
+    {
+      "round": 1,
+      "decision": "Gaps: Confirmation of whether 'My Flexy' is distinct from 'Flexy' (the e-commerce platform provider).; Presence of 'My Flexy' on other major retailers like Amazon, Target, or Sephora to increase media complexity score.; Identification of leadership roles (Head of eCommerce, Digital Marketing) to assess organizational investment.. There is a significant risk that 'Flexy' evidence [6,7,8] refers to a different company, potentially inflating or confusing the investment score. I need to clarify the company's identity and search for other retail channels to determine if their media strategy is truly simple or more complex than currently assessed.",
+      "queries": [
+        "\"My Flexy\" beauty sleep wellness brand vs \"Flexy\" e-commerce platform",
+        "\"My Flexy\" products on Amazon OR Target OR Sephora OR Ulta"
+      ],
+      "new_evidence": 3,
+      "score_after": 57.5,
+      "confidence_after": "High"
+    },
+    {
+      "round": 2,
+      "decision": "Planned: Confidence is high, but the organizational_investment score is very low and we haven't checked for the use of competing platforms. Finding a competing tool or a new ecommerce hire would significantly shift the assessment before finalizing. Not run: web search unavailable.",
+      "queries": [
+        "\"My Flexy\" Skai OR Perpetua OR Flywheel OR Pacvue case study",
+        "\"My Flexy\" \"Head of Ecommerce\" OR \"Digital Marketing Manager\" LinkedIn"
+      ],
+      "new_evidence": 0,
+      "score_after": null,
+      "confidence_after": null
+    }
+  ],
+  "brief": {
+    "why_attractive": "My Flexy is currently selling across both Amazon [10] and Walmart Marketplace [0, 1], having expanded into Walmart in July 2026 [2, 3]. I infer that managing media and performance across these two distinct platforms is creating operational complexity for their team.",
+    "relevant_capabilities": [
+      "Cross-retailer retail media management (Amazon, Walmart, Instacart, Target and more) from one dashboard",
+      "Digital shelf analytics (inventory, Buy Box, product content, share of voice, pricing)",
+      "Cross-retailer measurement and reporting"
+    ],
+    "likely_buyer": "Head of Ecommerce",
+    "missing_info": [
+      "Confirmation of who manages their retail media spend",
+      "Whether they are using any existing third-party tools for Walmart Connect or Amazon Advertising",
+      "Current internal team size for ecommerce operations"
+    ],
+    "next_step": "Initiate outreach to the Ecommerce lead focusing on the recent Walmart expansion.",
+    "outreach_draft": "Subject: Scaling My Flexy on Walmart & Amazon\n\nHi [Name],\n\nI noticed My Flexy recently expanded its beauty and wellness line to Walmart Marketplace this past July. Congratulations on the growth!\n\nAs you scale across both Amazon and Walmart, managing fragmented dashboards can become a bottleneck. Pacvue helps brands unify their retail media management and digital shelf analytics into a single view, streamlining how you optimize bids and track share of voice across multiple retailers.\n\nDo you have 15 minutes next week to discuss how we can support your multi-retailer strategy?\n\nBest,\n\n[Your Name]\nPacvue",
+    "approval": "pending"
+  },
+  "updated_at": "2026-10-24T14:19:49"
+}
